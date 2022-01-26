@@ -1,0 +1,2 @@
+# YatoManga-BUGS
+Bug repo
